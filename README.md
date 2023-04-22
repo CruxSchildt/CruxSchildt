@@ -2,7 +2,7 @@
 
 **`Computer Enthusiast (Game Developer/Front-End Developer/Creater)`**
 
-I'm an indie full-stack developer, game developer, and content creator carving my way through the amazing process of what I do. All of my projects are built from the ground up, from designing to planning out the project. While not developing you'll find me outside filming my passions of the outdoors. The process of building my projects for development is the same for my passion for content creation. \
+I'm an indie full-stack developer, game developer, and content creator carving my way through the amazing process of what I do. All of my projects are built from the ground up, from designing to planning out the project. While not developing you'll find me outside filming my passions of the outdoors. The process of building my projects for development is the same for my passion for content creation.
 
 ### ⚙ Languages and Tools
 
