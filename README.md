@@ -24,4 +24,8 @@ I'm an indie full-stack developer, game developer, and content creator carving m
 
 [![Crux's GitHub stats](https://github-readme-stats.vercel.app/api?username=CruxSchildt&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
- 
+#
+
+### My Coding Journey
+
+  I started my coding journey as a young kid, when my dad told me what his job use to be - he used to work at Linux Networks developing for Linux. After that he got me       into coding. Then, with that he showed me how to get into it, and I eventually started learning how to code in Python. But the journey doesn't end there; from then on I     got my first actual computer, and I started to learn web-development and back-end development. After that I kind of got out of coding for about half a year, until I got     an old HP laptop. Immedielty when I got that laptop I wanted to check out Linux. So I did some research and eventually installed Ubuntu on to the machine. On the           machine I got into VIM, and C++. And now I am here, today, expanding my knowledge on coding.
