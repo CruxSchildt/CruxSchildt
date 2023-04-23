@@ -1,4 +1,4 @@
-# 🧗🏻‍♂ Carson Schildt
+# 🧗🏻‍ Carson Schildt
 
 **`Computer Enthusiast (Game Developer/Front-End Developer/Creater)`**
 
